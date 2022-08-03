@@ -1,0 +1,7 @@
+# Detecting_Custom_Objects
+Detecting custom objects
+
+If you are running this project from within PyCharm, make sure that the 'Run Configuration' for this script
+uses the 'Python 3.6 (maskrcnn)' virtual environment instead of the 'Project Default (Python 3.6)' interpreter.
+
+Note- TensorFlow version should support to run MASK-RCNN model
